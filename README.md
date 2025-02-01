@@ -17,7 +17,7 @@ This project aims to perform gaze estimation using several deep learning models 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yakyo/gaze-estimation.git
+git clone https://github.com/ganeshmysoreDT/Gaze-Estimation.git
 cd gaze-estimation
 ```
 
